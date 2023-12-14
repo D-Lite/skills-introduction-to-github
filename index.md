@@ -3,3 +3,8 @@
 ###### This is an `<h6>` header, which is the smallest
 
 ![A bed inside a bedroom](https://github.com/D-Lite/skills-introduction-to-github/assets/44473671/8053257f-e092-470f-add6-94344b8495bd)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
